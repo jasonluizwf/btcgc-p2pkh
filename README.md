@@ -6,4 +6,5 @@ pip install ecdsa
 pip install requests
 
 Executar:
+
 python btcgc-p2pkh.py
